@@ -8,3 +8,6 @@ No. The message feature involves multiple components (input handling, network, d
 Question 2:
 
 Yes. This is perfect for unit testing since it's isolated functionality with clear inputs and outputs. We can easily test that 80-character messages are accepted while 81-character messages are rejected without needing external dependencies.
+
+https://abhyuday180.github.io/Lab5_Starter/expose.html
+https://abhyuday180.github.io/Lab5_Starter/explore.html
